@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Some New Thing",
+		"culture": 2,
+		"gold": 2,
+		"science": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
 		"name": "Monument",
 		"gold": 2
 	}
